@@ -1,0 +1,13 @@
+{
+  "project_title": "Warehouse Picking Monitor",
+  "goal": "Evaluate pick rates and identify delays.",
+  "entity_name": "pick_list",
+  "amount_label": "items",
+  "score_label": "speed_score",
+  "categories": [
+    "zone_a",
+    "zone_b",
+    "zone_c",
+    "zone_d"
+  ]
+}
